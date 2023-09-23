@@ -1,0 +1,6 @@
+print (1,2,3)
+print (4,5,6, sep="*")
+print (4,5,6, sep="+")
+print ("Python\nDeveloper")
+print (1,2,3,end="--")
+print (4,5,6)
